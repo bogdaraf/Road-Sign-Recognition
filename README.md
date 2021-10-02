@@ -45,7 +45,7 @@ result for the model trained with 30 epochs is equal to 90%.
 
 ## Screenshot
 
-![Example screenshot](screenshot.png)
+![Example screenshot](images/screenshot.png)
 
 ## Features
 
